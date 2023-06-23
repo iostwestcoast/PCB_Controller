@@ -33,6 +33,18 @@ Work plan:
 - The design can be absolutely whatever you want
 - In this case I painted the front part before soldering and cut out a transparent cover plate from acrylic on a laser machine, it is fastened with screws
 
+Scematics:
+
+![2](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/1bf0d808-dc16-4d9d-b917-b0bf0e16157b)
+
+PCB:
+
+![1](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/76ff96c3-6c17-450c-9069-abed590cccf5)
+
+ArtCAM:
+
+![image](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/abe67164-a6a6-4d6e-8ddd-eefd4e30cc09)
+
 
 
 PCB Controller code:
