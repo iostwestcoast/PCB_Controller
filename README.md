@@ -45,7 +45,21 @@ ArtCAM:
 
 ![image](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/abe67164-a6a6-4d6e-8ddd-eefd4e30cc09)
 
+Milling:
 
+![photo_2023-06-23_14-38-55](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/4859df42-341a-4ddd-9afa-ec1ed4eedf05)
+
+Painting:
+
+![photo_2023-06-23_14-39-07](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/aadca1a2-3c22-46ce-8ad9-7760b690b09c)
+
+Soldering:
+
+![photo_2023-06-23_14-39-04](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/75bf24a9-a95a-4780-bb4c-390b822608ba)
+
+Acrylic panel:
+
+![photo_2023-06-23_14-38-37 (2)](https://github.com/iostwestcoast/PCB_Controller/assets/114690482/248dbfd5-9ad9-489f-a633-9249739ea075)
 
 PCB Controller code:
 
