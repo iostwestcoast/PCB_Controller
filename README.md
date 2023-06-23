@@ -1,6 +1,6 @@
 # PCB Controller
 
-PCB controller based on an arduino made with a milling machine designed for a radio controlled bot.
+PCB controller based on an arduino made with a milling machine designed for a radio controlled bot
 
 The final look of the controller:
 
