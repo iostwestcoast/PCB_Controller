@@ -8,6 +8,27 @@ The final look of the controller:
 
 
 
+https://github.com/iostwestcoast/PCB_Controller/assets/114690482/6b196048-b7b7-4629-8197-2101ce62043e
+
+
+
+Work plan:
+
+- In EasyEDA add the required electronic components and connect them
+  
+- Trace and correct the tracks for the PCB, 1 mm indentation and 0.8 mm track thickness
+  
+- Download a .dxf file and remove unnecessary vectors with the Rhino program
+  
+- Correct vectors in Rhino or ArtCAM and mirror the whole schematic
+- Make milling on CNC machine, prepare file and paths in ArtCAM
+- We mill the holes for the pins through, mill 0.5mm, mill the tracks 0.2mm deep, mill 0.3mm tapered
+- Since the PCB is double sided and the second layer is not needed, we remove it completely with the 6mm mill
+- Solder the pins to the board according to the holes and install the components
+- The design can be absolutely whatever you want
+- In this case I painted the front part before soldering and cut out a transparent cover plate from acrylic on a laser machine, it is fastened with screws
+
+
 Сomponents:
 
 - NRF+
